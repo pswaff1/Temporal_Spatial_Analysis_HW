@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Temporal_Spatial_Analysis_HW",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-temporal",
+      "appliesTo": "temporal.cs",
+      "type": "launch"
+    }
+  ]
+}
